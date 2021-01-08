@@ -54,7 +54,7 @@ end
 # 下記のコードが何をしているかを説明してください・・・（Q）
 puts seats_count - empty_seat.count
 
-# ① empty_seat変数 = D
+# ① empty_seat変数 = C
 # ② seats_count変数 = A
 # ③ number_of_visitors変数 = E
 # ④ users変数 = F
